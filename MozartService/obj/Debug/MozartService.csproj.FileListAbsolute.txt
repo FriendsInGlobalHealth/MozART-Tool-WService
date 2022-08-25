@@ -1,0 +1,77 @@
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService\MozartService\bin\Debug\MozartService.exe.config
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService\MozartService\bin\Debug\MozartService.exe
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService\MozartService\bin\Debug\MozartService.pdb
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService\MozartService\obj\Debug\MozartService.csprojAssemblyReference.cache
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService\MozartService\obj\Debug\MozartService.MozartService.resources
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService\MozartService\obj\Debug\MozartService.ProjectInstaller.resources
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService\MozartService\obj\Debug\MozartService.csproj.GenerateResource.cache
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService\MozartService\obj\Debug\MozartService.csproj.CoreCompileInputs.cache
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService\MozartService\obj\Debug\MozartService.exe
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService\MozartService\obj\Debug\MozartService.pdb
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\MozartService.exe.config
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\MozartService.exe
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\MozartService.pdb
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Buffers.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Memory.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Buffers.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Memory.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\obj\Debug\MozartService.csprojAssemblyReference.cache
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\obj\Debug\MozartService.MozartService.resources
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\obj\Debug\MozartService.ProjectInstaller.resources
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\obj\Debug\MozartService.csproj.GenerateResource.cache
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\obj\Debug\MozartService.csproj.CoreCompileInputs.cache
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\obj\Debug\MozartService.csproj.CopyComplete
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\obj\Debug\MozartService.exe
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\obj\Debug\MozartService.pdb
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\MySqlConnector.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Pomelo.JsonObject.dll
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\MySqlConnector.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dercio.bucuane\Documents\Visual Studio 2019\Projects\MozartService V1\MozartService\bin\Debug\Pomelo.EntityFrameworkCore.MySql.xml
